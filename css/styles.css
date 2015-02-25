@@ -1,0 +1,24 @@
+#top {
+  height: 100%;
+  width: 100%;
+  margin-top: 7%;
+}
+
+h2 {
+  margin-top: -10%;
+  margin-left: 10%;
+  color: white;
+}
+
+.about {
+  margin-left: 5%;
+}
+
+.projects {
+  margin-left: 5%;
+}
+
+#portrait {
+  height: 100%;
+  width: 100%;
+}
